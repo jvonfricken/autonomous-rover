@@ -1,0 +1,31 @@
+########################### GPS LOCATIONS ###########################
+# LOCATION #1
+location=40.80647 -77.86682
+# LOCATION #2
+location=40.80689 -77.86754
+# LOCATION #3
+location=40.80651 -77.86808
+# LOCATION #4
+location=40.80650 -77.86735
+# LOCATION #5
+location=40.80595 -77.86715
+########################### GPS LOCATIONS ###########################
+
+############################ PIN LAYOUT #############################
+imu_pin=5
+steering_pin=27
+propulsion_pin_1=0
+propulsion_pin_2=1
+propulsion_pin_3=2
+payload_pin=4
+sonar_pin=25
+############################ PIN LAYOUT #############################
+
+####################### DRONE CONFIGURATION #########################
+#percent of total speed [0-100]
+drive_speed=50
+#detection distance for obstacles [in]
+obstacle_threshold=36
+#Target Threshold [m]
+target_threshold=8
+####################### DRONE CONFIGURATION #########################
